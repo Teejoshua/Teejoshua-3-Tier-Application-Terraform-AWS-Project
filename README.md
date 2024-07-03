@@ -1,6 +1,6 @@
 # Terraform to provision AWS resources
 
-## Provisioning a three-tier acrchitecture resources using terraform
+## Provisioning a three-tier architecture resources using terraform
 
 - The diagram below shows resources that should be provisioned using terraform
 
@@ -14,5 +14,5 @@
 
 ### backend and frontend deployments
 
-- Deploying a BookApp application created using NodeJS and ReactJS \\
+- Deploying a BookApp application created using NodeJS and ReactJS 
   deployment is done using docker for frontend and backend
