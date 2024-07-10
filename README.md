@@ -422,7 +422,7 @@ So, now our entire code is ready. We need to run the below steps to create infra
 
 Once the resource creation finishes you can get the DNS of a load balancer and paste it into the browser and you can see load balancer will send the request to two instances.
 
-### You have learned how to create various resources in AWS using Terraform
+### ***You have now learned how to create various resources in AWS using Terraform***
 
 <p align="center">
   <img src="https://imgur.com/7iMQJlY.gif" />
